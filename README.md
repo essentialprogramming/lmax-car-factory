@@ -1,4 +1,4 @@
-# LMAX
+# LMAX Disruptor
  This small project features the concept of LMAX disruptor and its benefits. LMAX disruptor is an open-source
 concurrency framework that allows very quick pass of events or messages between threads. 
 It is a data structure that permits the work flow to go truly parallel. 
